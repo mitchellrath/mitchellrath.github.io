@@ -1,11 +1,14 @@
-title: John Doe # your name (or website title) here
-logo: "/images/logo.png?raw=true" # your photo (or logo) here
+title: Mitchell Rath # your name (or website title) here
+logo: "/images/Headshot.PNG?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  Thank you for visiting the portfolio of Mitchell Rath.
   <br><br>
-  Second description 
+  I am a health data scientist by training, with a background in genetic biology, statistics and endocrinology. <br> 
+  Included in this page is some select projects I have worked on through the Health Data Science and Biostatistics Graduate Program the the University of Calgary.
   <br><br>
-  <a href="https://www.linkedin.com/in/example/">View My LinkedIn Profile</a> 
+  <a href="https://www.researchgate.net/profile/Mitchell_Rath2">View My ResearchGate Profile</a> 
+  <br>
+  <a href="https://www.linkedin.com/in/mitchell-rath-210844183">View My LinkedIn Profile</a> 
+  
   
 theme: jekyll-theme-minimal
-google_analytics: UA-000000-0 # your Google Analytics tracking ID here
